@@ -1,0 +1,23 @@
+{
+  "name": "sort-without-article",
+  "version": "1.0.0",
+  "description": "Sorting without article",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "static -H \"{\\\"Cache-Control\\\": \\\"no-cache, must-revalidate\\\"}\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/argenis0409/Sort-without-articles.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/argenis0409/Sort-without-articles/issues"
+  },
+  "homepage": "https://github.com/argenis0409/Sort-without-articles#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
